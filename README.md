@@ -1,49 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TechnofySMP</title>
-
-<style>
-body{
-margin:0;
-font-family:Arial,sans-serif;
-background:#0f0f0f;
-color:white;
-text-align:center;
-}
-
-header{
-background:linear-gradient(90deg,#00ff88,#00ccff);
-padding:40px;
-}
-
-h1{
-font-size:50px;
-margin:0;
-}
-
-.box{
-background:#1a1a1a;
-margin:20px;
-padding:20px;
-border-radius:15px;
-box-shadow:0 0 20px #00ff88;
-}
-
-.ip{
-font-size:30px;
-color:#00ff88;
-font-weight:bold;
-}
-
-footer{
-padding:20px;
-background:#111;
-margin-top:20px;
-}
 </style>
 </head>
 <body>
