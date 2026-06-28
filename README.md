@@ -17,5 +17,5 @@
 <h2>🔥 Neden TechnofySMP?</h2>
 <p>✅ P2W Değil</p>
 <p>✅ Kendine Ait Ekonomi Sistemi</p>
-<p>✅ Türk Oy
+<p>✅ Türk Smp Sunucusu Yetkili Alımlar İçin vores123 Instagram hesabına ulaşın
 Hepinizi Bekleriz Oturduk Bekliyoruz Hatta Sende Gel Birlikte Olsun Bu Sunucuda Her Gün Event Etkinlikler Yapılır 
