@@ -18,3 +18,4 @@
 <p>✅ P2W Değil</p>
 <p>✅ Kendine Ait Ekonomi Sistemi</p>
 <p>✅ Türk Oy
+Hepinizi Bekleriz Oturduk Bekliyoruz Hatta Sende Gel Birlikte Olsun Bu Sunucuda Her Gün Event Etkinlikler Yapılır 
